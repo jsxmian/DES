@@ -12,3 +12,8 @@
 3.3扩展功能
 ![3](https://github.com/jsxmian/DES/assets/147250030/e936f61c-48b1-4933-a001-98ff7b9f8c15)
 
+3.4暴力破解
+![4](https://github.com/jsxmian/DES/assets/147250030/31dc8c71-2bb8-4303-99b6-da34308c2d71)
+![5](https://github.com/jsxmian/DES/assets/147250030/8af7df89-25c3-409b-bc6b-61c9121f5a28)
+
+
